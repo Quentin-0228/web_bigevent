@@ -1,0 +1,9 @@
+git init ——— git add . ——— git commit -m "init project" ——————————
+
+Github 
+  web_bigevent   ————  
+  创建将本地仓库和Github仓库建立关联关系|  
+  将本地仓库的代码推送到Github仓库中
+  git checkout -b login 
+
+
