@@ -13,7 +13,9 @@ Github
 
 
 
-
+git add .
+git commit -m "新建了home1.js 文件"
+ git status
 
 git push 
 控制面板-凭据管理器
