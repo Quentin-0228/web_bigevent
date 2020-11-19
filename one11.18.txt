@@ -1,9 +1,28 @@
 git init ——— git add . ——— git commit -m "init project" ——————————
 
 Github 
-  web_bigevent   ————  
+  New Repository: web_bigevent   ————  
   创建将本地仓库和Github仓库建立关联关系|  
+
   将本地仓库的代码推送到Github仓库中
+ 【git remote add origin https://github.com/Quentin-0228/web_bigevent.git
+  git branch -M main
+  git push -u origin main】
+
   git checkout -b login 
 
 
+
+
+
+
+喝糖水 
+  被人构陷入狱致奶奶去世,欧小剑眼神很有细节
+  这里演绎出了不一样的人生轨迹许魏洲欧小剑
+  欧小剑喝糖水这是在履行之前对爱人的承诺,心疼!
+  欧小剑这里空洞的眼神 有恍惚与心空
+  欧小剑哭的仿佛一个无助的孩子
+  欧小剑失去至亲心痛,失去爱人更是心碎
+  欧小剑所有委屈情绪压在心,欧小剑太难了
+  迅捷如豹子 
+  随着剧情,声线也在随之改变,这种小细节真的好棒!
